@@ -1,9 +1,9 @@
 {
   "magisk": {
-    "version": "7ca8dc7f",
-    "versionCode": "23014",
+    "version": "d208be84",
+    "versionCode": "23015",
     "link": "https://github.com/TheHitMan7/Magisk-Files/raw/master/channel/app-debug.apk",
-    "note": "https://cdn.jsdelivr.net/gh/topjohnwu/magisk-files@59a2026a80990d9295ee8750b2aacd8f9beff30a/notes.md"
+    "note": "https://cdn.jsdelivr.net/gh/topjohnwu/magisk-files@6b5f38f8e8d4291b2efaa062d164f67031847405/notes.md"
   },
   "stub": {
     "versionCode": "22",
