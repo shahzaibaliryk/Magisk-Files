@@ -11,7 +11,7 @@ Custom Magisk by [TheHitMan7](https://github.com/TheHitMan7). Always synced with
 It will spoof/alter/manipulate non-Magisk related signals or traces to circumvent device state detection. Although included features are officially removed from Magisk.
 I added them back while keeping the latest changes including Zygisk - Magisk in Zygote.
 
-**[Download](https://cdn.jsdelivr.net/gh/TheHitMan7/Magisk-Files@master/release/d208be84.apk)**
+**[Download](https://cdn.jsdelivr.net/gh/TheHitMan7/Magisk-Files@master/release/13ae4efd.apk)**
 
 ![jsDelivr(GitHub)](https://img.shields.io/jsdelivr/gh/hd/TheHitMan7/Magisk-Files?color=yellow&style=for-the-badge)
 
