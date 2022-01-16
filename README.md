@@ -13,7 +13,7 @@ I added them back while keeping the latest changes including Zygisk - Magisk in 
 
 **[Download](https://cdn.jsdelivr.net/gh/TheHitMan7/Magisk-Files@master/release/5f805db9.apk)**
 
-![jsDelivr(GitHub)](https://img.shields.io/jsdelivr/gh/hd/TheHitMan7/Magisk-Files?color=yellow&style=for-the-badge)
+![jsDelivr(GitHub)](https://img.shields.io/jsdelivr/gh/hm/TheHitMan7/Magisk-Files?color=success&style=for-the-badge)
 
 ## Notes
 
